@@ -122,6 +122,12 @@
         </value>
   </resheader>
   <data name="add_api_client" xml:space="preserve">
-        <value>...</value>
+        <value>API-Client hinzufügen</value>
+  </data>
+  <data name="debug_singular" xml:space="preserve">
+    <value>Debug (Singular)</value>
+  </data>
+  <data name="debug_plural" xml:space="preserve">
+    <value>Debug</value>
   </data>
 </root>
